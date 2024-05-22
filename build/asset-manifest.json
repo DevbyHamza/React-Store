@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/React-Store/static/css/main.3ccd2a3d.css",
+    "main.js": "/React-Store/static/js/main.a44d4a98.js",
+    "static/js/453.a074a449.chunk.js": "/React-Store/static/js/453.a074a449.chunk.js",
+    "static/media/mainback.mp4": "/React-Store/static/media/mainback.a5992fbf83f39b9d9577.mp4",
+    "static/media/Aboutusbg.jpg": "/React-Store/static/media/Aboutusbg.8377369cea08b60b3b62.jpg",
+    "static/media/LADIEtOP.jpg": "/React-Store/static/media/LADIEtOP.fc672846eb752db6280f.jpg",
+    "static/media/contactbg.jpg": "/React-Store/static/media/contactbg.2e78fe7fab23dab17ad0.jpg",
+    "static/media/workplace.jpg": "/React-Store/static/media/workplace.40b4acd84df8c050aff9.jpg",
+    "static/media/staf.jpg": "/React-Store/static/media/staf.31e583ca413e4a141028.jpg",
+    "static/media/Eyewear.jpg": "/React-Store/static/media/Eyewear.ec2c731125c1887ce398.jpg",
+    "static/media/aboutusbg2.jpg": "/React-Store/static/media/aboutusbg2.da081b860c3c41362282.jpg",
+    "static/media/Spofferbg.jpg": "/React-Store/static/media/Spofferbg.c9cbc1ed785276a89cdf.jpg",
+    "static/media/pic3.png": "/React-Store/static/media/pic3.7fa7f238f514fc314c6d.png",
+    "static/media/shoesbg.jpg": "/React-Store/static/media/shoesbg.039d79e3f01b03d24be2.jpg",
+    "static/media/pic1.png": "/React-Store/static/media/pic1.12fa308352316cf89127.png",
+    "static/media/pic4.png": "/React-Store/static/media/pic4.1e9e23bb00ac29baf18b.png",
+    "static/media/pic2.png": "/React-Store/static/media/pic2.5cad5443991cc7795b42.png",
+    "static/media/world.png": "/React-Store/static/media/world.cf0611e2131a31511c95.png",
+    "static/media/quality.png": "/React-Store/static/media/quality.2a84d3a613a35f2a5f70.png",
+    "static/media/secure.png": "/React-Store/static/media/secure.2911fe4fd64c6cdc9192.png",
+    "static/media/deals.png": "/React-Store/static/media/deals.dd331008f91e004fdfba.png",
+    "static/media/logo.png": "/React-Store/static/media/logo.ad7e843d20f6169c24cc.png",
+    "static/media/twitter.png": "/React-Store/static/media/twitter.7e40f617aaa8eca864bb.png",
+    "static/media/instagram.png": "/React-Store/static/media/instagram.edb90ecc706a7a25542b.png",
+    "static/media/facebook.png": "/React-Store/static/media/facebook.bfd1cfff9f9521198b26.png",
+    "static/media/slick.svg": "/React-Store/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/React-Store/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/React-Store/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/React-Store/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/React-Store/index.html",
+    "main.3ccd2a3d.css.map": "/React-Store/static/css/main.3ccd2a3d.css.map",
+    "main.a44d4a98.js.map": "/React-Store/static/js/main.a44d4a98.js.map",
+    "453.a074a449.chunk.js.map": "/React-Store/static/js/453.a074a449.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ccd2a3d.css",
+    "static/js/main.a44d4a98.js"
+  ]
+}

@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.primarybtn{ 
+    @apply  bg-white text-xs font-semibold hover:bg-black hover:text-white text-black  py-[9.5px] px-5
+}
